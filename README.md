@@ -2,43 +2,38 @@
 
 Purpose
 -----------
-This websites purpose is to promote 'First Class Interiors' country wide
+This websites purpose is to promote 'First Class Interiors' country wide. Creating
+more business and buid up the company reputation.
 The main page will showcase there most recent projects to attract new customers
-It will be interactive and user friendly
+It will be interactive and user friendly in addtion out look visual effect.
 
 Description
 ---------------
-The website already built must be adjusted to the new company name
-We require a wireframe
-Additional changes will be made as per client interview and questionnaire
-The websites operational features must be tested
-up completion, we will meet with the client and present the outcome
-
+the website is made up according the user stories collected from the product owner.  The functional pages are home.html, about us.html, contact us.html and shop.html. our project follow the Agile Scrum approach.The pages already built must be link to the Azure websit and adjusted to the product owner's requirement.The team memeber collabrated and support each other to complete the project effective and efficienctly. 
+The websites operational features was be tested
+up completion, we will link the webpages to the AZURE website to check the functioncollece the useful imformation to make adjust and improvment .After that it will bbe hand over to the owner as soon sa possible.
 
 
      --------------------
 ----Team members----
      --------------------
 
-Jeremy Brokken
----------------------
-Project lead
-Project Manager
-Senior Business Analyst
-
-Felipe  Herbster Dias Siqueira
-----------------------------------------
-Senior Software Architect
-Senior Developer
 
 Fei Li
 -------
+Senior Scrum Master
+
+Jeremy Brokken
+---------------------
 Senior Tester
-Senior Scrum Manager
+
+Felipe  Herbster Dias Siqueira
+----------------------------------------
+Senior Developer
 
 Finn Williams
 -----------------
-Quality Assurance Lead
-Senior User Interface Designer
-Senior User Experience Designer
+Senior User Interface and wireframe Designer
+
+
 
